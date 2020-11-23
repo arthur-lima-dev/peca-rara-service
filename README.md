@@ -1,2 +1,2 @@
 # peca-service
-Sistema de cadastro de Peças automotivas - Back-end
+Sistema de cadastro de Peças automotivas - Back-end(Spring)
